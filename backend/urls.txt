@@ -1,0 +1,4 @@
+http://example.com
+http://malicious-site.biz
+https://secure-site.com
+http://phishingscam.net
